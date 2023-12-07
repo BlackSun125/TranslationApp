@@ -3,7 +3,7 @@ import { View, TextInput, Button, Text, Alert } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
 import axios from 'axios';
 
-const apiKey = 'eec4e385d4msh99bf0f51817ee3ep1bcee2jsn40de7eded71b'; //change your APIKey here
+const apiKey = '83ba575c3fmsh37829cc01e803d2p13dbd2jsn16f23a0f0555'; //change your APIKey here
 
 const TranslateApp = () => {
   const [inputText, setInputText] = useState('');
