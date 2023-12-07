@@ -105,6 +105,7 @@ const TranslateApp = () => {
                   borderColor: 'gray',
                   borderWidth: 1,
                   marginBottom: 10,
+                  marginTop: 80,
                   fontSize: 18, }}
         placeholder="Enter text to translate"
         multiline={true}
